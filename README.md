@@ -1,4 +1,4 @@
-# BELANJAWAN: A Machine Learning-Based Personal Budget Management Application
+# BELANJAWAN: A Machine Learning Based Personal Budget Management Application
 
 ## Project Summary
 Belanjawan is a proposed personal budget management application designed to help university students record their income and expenses, manage monthly budgets, track savings goals and analyse spending patterns using Machine Learning.
